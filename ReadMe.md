@@ -1,4 +1,4 @@
-#Object Tracking using YOLOv8
+# Object Tracking using YOLOv8
 
 This project focuses on implementing object tracking in computer vision using YOLOv8, the latest version in the 'You Only Look Once' series. The goal is to detect and track multiple objects in real-time through video sequences. The project integrates YOLOv8 with advanced tracking algorithms, ByteTrack and BotSort, to enhance tracking accuracy and handle challenging scenarios such as occlusions and varying object sizes.
 
