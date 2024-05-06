@@ -1,0 +1,8 @@
+train: data/train/images
+val: data/test/images
+
+nc: 18
+names: ['Action Figures', 'Bag', 'Board Games', 'Bottles and Cans and Cups', 'Camera', 'Car Seat', 'Consumer Goods', 'Hat', 'Headphones', 'Keyboard', 'Legos', 'Media Cases', 'Mouse', 'None', 'Shoe', 'Stuffed Toys', 'Toys', 'Blocker']
+
+# nc: 1
+# names: ['Shoe']
